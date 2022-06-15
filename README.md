@@ -1,4 +1,8 @@
-### Hi there 👋
+## Paul Whippey
+Experienced, professional and accomplished Technical Architect with a software engineering, system administration and infrastructure engineering background.
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulwhippey)
+[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paulwhippey&show_icons=true&theme=gruvbox)
 
 <!--
 **paulwhippey/paulwhippey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
